@@ -151,6 +151,7 @@ int main(){
         DrawText(TextFormat("%i", playerScore), screenWidth - 70, 10, 34, WHITE);
 
         EndDrawing();
+        
     }
 
     CloseWindow();
