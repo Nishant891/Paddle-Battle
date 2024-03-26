@@ -5,4 +5,4 @@
 
 ## Here's a small demo
 
-[A video demo] (https://www.loom.com/share/3e5bc297d08a4475a2f759cae5a61f29?sid=f459c737-b11b-4b7b-a8ce-7a05ab66bfc0)
+[A video demo](https://www.loom.com/share/3e5bc297d08a4475a2f759cae5a61f29?sid=f459c737-b11b-4b7b-a8ce-7a05ab66bfc0)
