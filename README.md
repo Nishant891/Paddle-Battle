@@ -1,8 +1,8 @@
-# PING PONG GAME 🏓
+# PADDLE BATTLE 🏓
 
-### This is a ping pong game written in c++. I used Raylib a 2D game development c++ library. 
-### The purpose to code a game is to simply learn more about Object Oriented Programming. 
+### This is a classic ping pong game written in c++. I used Raylib a 2D game development c++ library. 
+### The purpose to code a game is to simply learn more about Object Oriented Programming. I also implemented a sort of AI fro the CPU.
 
 ## Here's a small demo
 
-https://www.loom.com/share/c00c18dd817247c4a433df4242700174?sid=3fa92305-cf5b-43a3-81e3-d909d1943e57
+[A video demo] (https://www.loom.com/share/3e5bc297d08a4475a2f759cae5a61f29?sid=f459c737-b11b-4b7b-a8ce-7a05ab66bfc0)
